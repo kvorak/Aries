@@ -40,7 +40,7 @@ class Aries(object):
     def __init__(self, journal_path="~/Documents/"):
         """ Initializes the Aries object """
 
-        self.journal_path = os.path.abspath(journal_path)
+        self.journal_path = os.path.abspath(os.path.expanduser(journal_path))
         self.load_resources()
 
     def load_resources(self, journal_path=None):

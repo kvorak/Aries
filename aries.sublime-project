@@ -11,10 +11,10 @@
 	"folders":
 	[
 		{
-			"path": "app"
+			"path": "."
 		},
 		{
-			"path": "aries"
+			"path": "/Users/jason.hamilton/Projects/aries/src/quarks"
 		}
 	],
 	"settings":

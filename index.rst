@@ -11,8 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   aries/index
-   docs/index
+   internal documentation <../Aries/docs/index.rst>
 
 This was placed at the git root for Aries.git.
 
